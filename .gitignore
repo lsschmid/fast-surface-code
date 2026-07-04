@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS / editor
+.DS_Store
+
+# Local scratch (not part of the release)
+qecc/
+related_papers/
+main_working_*.py
+texput.log
+evaluation/debug_*.py
+evaluation/eval_amplification.py
+evaluation/plot_d9_detail*
+evaluation/results_transversal_cx*.json
+evaluation/results_verification.json
+evaluation/results_d9_detail.json
+evaluation/plot_transversal_cx.pdf
+evaluation/plot_verification.pdf
+evaluation/circuit_*.svg
+
+# Generated figure outputs (regenerable; paper copies live in paper/figures/)
+evaluation/*.pdf
+evaluation/stab_slices.svg

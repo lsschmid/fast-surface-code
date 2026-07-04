@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "fast-surface-code: Fast unitary preparation of surface-code logical states on neutral-atom hardware"
+type: software
+authors:
+  - family-names: Schmid
+    given-names: Ludwig
+    affiliation: "Chair for Design Automation, Technical University of Munich"
+  - family-names: Wille
+    given-names: Robert
+    affiliation: "Chair for Design Automation, Technical University of Munich"
+repository-code: "https://github.com/lsschmid/fast-surface-code"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Fast Unitary Preparation of Surface-Code Logical States on Neutral-Atom Hardware"
+  authors:
+    - family-names: Schmid
+      given-names: Ludwig
+    - family-names: Wille
+      given-names: Robert
+  year: 2026
+  conference:
+    name: "IEEE International Conference on Quantum Computing and Engineering (QCE), CEVNAC Workshop"
